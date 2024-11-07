@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ismael</h1>
-<h3 align="center">A passionate developer from España</h3>
+<h3 align="center">A passionate developer from Spain</h3>
 <p>📚 Estudiante de programación.<br>
 🛠️ Rompiendo el código... y arreglándolo.<br>
 🚧 Trabajo en progreso: aprender algo nuevo cada día</p>
