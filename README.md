@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 - [**userManagementApp**](https://github.com/IsmaelManz26/userManagementApp) - Gestión de usuarios con autenticación y roles.
 - [**PokemonTraditionalApp**](https://github.com/IsmaelManz26/PokemonTraditionalApp) - Aplicación con temática Pokémon.
 - [**traditionalAppLaravelPokemon**](https://github.com/IsmaelManz26/traditionalAppLaravelPokemon) - Proyecto en Laravel relacionado con Pokémon.
+- [**deportistasApp**](https://github.com/IsmaelManz26/deportistasApp.git) - Aplicacion de Laravel con fetch relacionado con deportistas.
 
